@@ -6,12 +6,11 @@ import RegistrationRow from './RegistrationRow';
 
 const App = () => {
     return (
-        <div className='app-wrapper' >
-            <Header />
-        <InfoList />
+        <div className='app-wrapper'>
+            <Header/>
+            <InfoList/>
 
-        
-                           
+
         </div>);
 }
 export default App;
